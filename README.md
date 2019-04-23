@@ -6,10 +6,5 @@ of which the key is a word from the text and its value a linked list that shows
 the orrurances of the same word in other articles. It finally plots the values
 to show the distribution of word frequencies. This repository contains the following files:
 
-- A ./text file containting the articles that need to be processed
-- A .PY 
-
-# Comments on graph distrution 
-
-#TODO
-
+- A .text file containting the articles that need to be processed
+- A .PY file containting the script 
